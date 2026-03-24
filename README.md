@@ -3,7 +3,7 @@ I am Said Abbas, a Data Analyst and Economic Researcher specializing in Politica
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saidabbasanalytics) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/saidabbas600) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidabbas600@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidabbasanalytics/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/saidabbas600) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidabbas600@gmail.com) 
 
 #  Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -14,7 +14,7 @@ I am Said Abbas, a Data Analyst and Economic Researcher specializing in Politica
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saidabbas600&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
